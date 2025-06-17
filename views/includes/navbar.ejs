@@ -22,6 +22,15 @@
         font-size: 1rem;
     }
 
+    @media (max-width: 800px) {
+        .items {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: grey;
+        }
+    }
+
 </style>
 
 <nav class="navbar navbar-expand-md bg-body-light border-bottom sticky-top">
@@ -43,8 +52,8 @@
                 </form>
             </div>
 
-            <div class="navbar-nav ms-auto">
-                <a class="nav-link" href="/listings/new">Airbnb your home</a>
+            <div class="navbar-nav ms-auto items">
+                <a class="nav-link" href="/listings/new"><b>Airbnb your home</b></a>
                 <% if(!currUser) { %>
                     <a class="nav-link"  href="/signup"><b>Sign up</b></a>
                     <a class="nav-link" href="/login"><b>Log in</b></a>
