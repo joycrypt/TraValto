@@ -1,4 +1,4 @@
-# 🏡 TraValto - Airbnb Clone (MERN Stack Project)
+# 🏡 TraValto - Full Stack Website (MERN Stack Project)
 
 This project is a full-stack Airbnb-style web application built as a part of my learning journey in the **MERN stack**. It allows users to register and list properties (Airbnbs), edit or delete their listings, view a map of locations, and leave comments on listings. The project emphasizes **authentication**, **authorization**, **security**, and clean **MVC architecture**.
 
