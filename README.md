@@ -1,4 +1,4 @@
-# 🏡 Airbnb Clone - MERN Stack Project
+# 🏡 TraValto - Airbnb Clone (MERN Stack Project)
 
 This project is a full-stack Airbnb-style web application built as a part of my learning journey in the **MERN stack**. It allows users to register and list properties (Airbnbs), edit or delete their listings, view a map of locations, and leave comments on listings. The project emphasizes **authentication**, **authorization**, **security**, and clean **MVC architecture**.
 
@@ -17,6 +17,7 @@ You can explore the live project here:
 - Leave comments/reviews on listings
 - Experience integrated Mapbox maps and Cloudinary-hosted images
 
+---
 
 ## 🚀 Features
 
@@ -66,7 +67,7 @@ You can explore the live project here:
 This project follows a clean **MVC (Model-View-Controller)** structure for scalability and maintainability.
 
 ```
-📦 MainProject
+📦 TraValto
 ├── 📁 controllers       # Controller logic (handles route logic)
 ├── 📁 init              # Initial setup logic (e.g., DB connection or seeds)
 ├── 📁 models            # Mongoose models for DB schemas
@@ -88,7 +89,7 @@ This project follows a clean **MVC (Model-View-Controller)** structure for scala
 
 ## 🔗 Repository
 
-GitHub Repository: [MainProject](https://github.com/joycrypt/MainProject.git)
+GitHub Repository: [TraValto](https://github.com/joycrypt/TraValto.git)
 
 ---
 
@@ -98,8 +99,8 @@ To run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/joycrypt/MainProject.git
-   cd MainProject
+   git clone https://github.com/joycrypt/TraValto.git
+   cd TraValto
    ```
 
 2. **Install dependencies**
@@ -128,7 +129,6 @@ To run the project locally:
 5. Open your browser and visit: [http://localhost:8000](http://localhost:8000)
 
 ---
-
 
 ## 🙌 Acknowledgements
 
